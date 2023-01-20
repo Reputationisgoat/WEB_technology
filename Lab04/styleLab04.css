@@ -1,0 +1,49 @@
+.head {
+	height: 200px;
+	border: solid 4px black;
+
+}
+.right {
+	padding: 10px;
+	width: 600px;
+	float: right;
+	border: solid 4px black;
+}
+.left {
+	padding: 15px;
+	width: 560px;
+	height: 350px;
+	float: left;
+	border: solid 4px black;
+}
+a {
+	color: green;
+}
+.block1 { 
+	margin: 50px;
+    width: 200px; 
+    background: #ccc;
+    padding: 5px;
+    padding-right: 20px; 
+    border: solid 1px black; 
+    float: right;
+   }
+.block2 { 
+	margin: 50px;
+    width: 200px;  
+    padding: 5px; 
+    border: solid 1px black; 
+    float: right; 
+    position: relative; 
+    left: 10px; 
+}
+.centre {
+	border: solid 1px black;
+	float: right;
+
+}
+
+#button {
+	float: right;
+	padding: 10px;
+}
